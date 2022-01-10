@@ -2,8 +2,8 @@
 
 Projeto feito para criar uma página resposivel com Bootstrap 3.
 
-![](img1.png)
-![](img2.png)
+![](img1.PNG)
+![](img2.PNG)
 
 
 ## Motivação
